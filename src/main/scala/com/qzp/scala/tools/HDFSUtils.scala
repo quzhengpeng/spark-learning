@@ -57,7 +57,7 @@ object HDFSUtils {
       delLocalPath(path)
     else {
       print("The host is unknow.")
-      throw IllegalArgumentException
+      //      throw IllegalArgumentException
       false
     }
   }

@@ -17,3 +17,6 @@ project/plugins/project/
 # resources specific
 resources/
 spark-warehouse/
+
+# log file
+*.hprof
